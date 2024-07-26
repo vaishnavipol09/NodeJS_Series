@@ -1,0 +1,15 @@
+{
+  "name": "08_npm",
+  "version": "1.0.0",
+  "description": "learning nodejs series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaishnavi's nodejs series",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "validator": "^13.12.0"
+  }
+}
