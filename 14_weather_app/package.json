@@ -1,0 +1,22 @@
+{
+  "name": "14_weather_app",
+  "version": "1.0.0",
+  "description": "creating a weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavipol09/NodeJS_Series.git"
+  },
+  "author": "Vaishnavi's NodeJS Series",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnavipol09/NodeJS_Series/issues"
+  },
+  "homepage": "https://github.com/vaishnavipol09/NodeJS_Series#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
